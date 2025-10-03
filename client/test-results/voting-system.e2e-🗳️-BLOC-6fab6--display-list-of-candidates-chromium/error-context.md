@@ -1,0 +1,67 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - heading "Electoral" [level=1] [ref=e9] [cursor=pointer]
+      - navigation [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - button "Dashboard" [ref=e13] [cursor=pointer]:
+              - img [ref=e14] [cursor=pointer]
+              - text: Dashboard
+          - listitem [ref=e17]:
+            - button "Polls" [ref=e18] [cursor=pointer]:
+              - img [ref=e19] [cursor=pointer]
+              - text: Polls
+          - listitem [ref=e22]:
+            - button "Results" [ref=e23] [cursor=pointer]:
+              - img [ref=e24] [cursor=pointer]
+              - text: Results
+          - listitem [ref=e28]:
+            - button "Logout" [ref=e29] [cursor=pointer]:
+              - img [ref=e30] [cursor=pointer]
+              - text: Logout
+    - main [ref=e34]:
+      - generic [ref=e35]:
+        - generic [ref=e37]:
+          - heading "Hi, Sarah!" [level=1] [ref=e38]
+          - button "BE A CANDIDATE" [ref=e39] [cursor=pointer]
+        - generic [ref=e42]:
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - heading "User Id" [level=3] [ref=e46]
+              - generic [ref=e47]:
+                - generic [ref=e48]: 68dec29cc5b4d8d858f2da6f
+                - button "Copy account number" [ref=e49] [cursor=pointer]:
+                  - img [ref=e50] [cursor=pointer]
+            - generic [ref=e53]:
+              - heading "Wallet Address" [level=3] [ref=e54]
+              - generic [ref=e55]:
+                - generic [ref=e56]: "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6"
+                - button "Copy wallet address" [ref=e57] [cursor=pointer]:
+                  - img [ref=e58] [cursor=pointer]
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - generic [ref=e64]:
+                - generic [ref=e65]: "Name:"
+                - generic [ref=e66]: Sarah Johnson
+              - generic [ref=e67]:
+                - generic [ref=e68]: "Email:"
+                - generic [ref=e69]: sarah@example.com
+              - generic [ref=e70]:
+                - generic [ref=e71]: "Role:"
+                - generic [ref=e72]: voter
+            - generic [ref=e73]:
+              - generic [ref=e74]:
+                - generic [ref=e75]: "Voter ID:"
+                - generic [ref=e76]: VOTER005
+              - generic [ref=e77]:
+                - generic [ref=e78]: "Verified:"
+                - generic [ref=e79]: "Yes"
+              - generic [ref=e80]:
+                - generic [ref=e81]: "Phone:"
+                - generic [ref=e82]: "5678901234"
+  - region "Notifications Alt+T"
+```

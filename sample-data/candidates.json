@@ -1,0 +1,56 @@
+[
+  {
+    "candidateId": 1,
+    "name": "Sarah Anderson",
+    "party": "Progressive Alliance",
+    "manifesto": "My vision for America includes universal healthcare, renewable energy initiatives, quality education for all, and strengthening the middle class. Former State Governor with over 15 years in public service and a proven track record of bringing positive change to communities.",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Sarah+Anderson",
+    "status": "active",
+    "voteCount": 0
+  },
+  {
+    "candidateId": 2,
+    "name": "Michael Roberts",
+    "party": "Conservative Union",
+    "manifesto": "I stand for lower taxes, smaller government, strong borders, and supporting our military and law enforcement. As a business leader and former military officer, I have proven ability to create jobs and strengthen the economy. America first, always.",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Michael+Roberts",
+    "status": "active",
+    "voteCount": 0
+  },
+  {
+    "candidateId": 3,
+    "name": "Dr. Emily Chen",
+    "party": "Independent",
+    "manifesto": "Investing in education, science, and technology is investing in America's future. As a renowned scientist and former MIT president, I'm focused on innovation and preparing America for the future. Let's build a nation that leads in innovation and opportunity for all.",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Dr+Emily+Chen",
+    "status": "active",
+    "voteCount": 0
+  },
+  {
+    "candidateId": 4,
+    "name": "James Martinez",
+    "party": "Green Party",
+    "manifesto": "Climate action now! We must transition to 100% renewable energy, protect our environment, and create green jobs for a sustainable future. As former Mayor of Portland, I made our city carbon neutral and expanded public transit. Let's do the same for America.",
+    "imageUrl": "https://via.placeholder.com/300x300?text=James+Martinez",
+    "status": "active",
+    "voteCount": 0
+  },
+  {
+    "candidateId": 5,
+    "name": "Lisa Thompson",
+    "party": "Progressive Alliance",
+    "manifesto": "Justice for all means criminal justice reform, voting rights protection, affordable housing, and living wages. As a civil rights attorney who fought for constitutional rights at the ACLU, I know how to make real change happen. Together we rise.",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Lisa+Thompson",
+    "status": "active",
+    "voteCount": 0
+  },
+  {
+    "candidateId": 6,
+    "name": "Robert Williams",
+    "party": "Conservative Union",
+    "manifesto": "Strong military, secure borders, low taxes, and individual liberty. As a decorated Marine Corps veteran and small business owner, I'm committed to supporting our troops, securing our borders, and defending traditional American values. Let's make America safe and prosperous again.",
+    "imageUrl": "https://via.placeholder.com/300x300?text=Robert+Williams",
+    "status": "active",
+    "voteCount": 0
+  }
+]

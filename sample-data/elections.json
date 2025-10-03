@@ -1,0 +1,42 @@
+[
+  {
+    "title": "2025 Presidential Election",
+    "description": "National Presidential Election for selecting the next President of the United States",
+    "electionId": "PRES-2025-001",
+    "startTime": "2025-09-01T00:00:00.000Z",
+    "endTime": "2025-12-31T23:59:59.000Z",
+    "status": "ongoing",
+    "isPublic": true,
+    "allowedVoters": [],
+    "resultsPublished": true,
+    "isArchived": false,
+    "totalVotes": 0
+  },
+  {
+    "title": "2025 Senate Election - District A",
+    "description": "Senate election for District A representatives to serve in the United States Senate",
+    "electionId": "SEN-2025-DA-001",
+    "startTime": "2026-01-01T00:00:00.000Z",
+    "endTime": "2026-03-31T23:59:59.000Z",
+    "status": "upcoming",
+    "isPublic": true,
+    "allowedVoters": [],
+    "resultsPublished": false,
+    "isArchived": false,
+    "totalVotes": 0
+  },
+  {
+    "title": "2024 Governor Election",
+    "description": "State Governor Election - Completed election for state governor position",
+    "electionId": "GOV-2024-001",
+    "startTime": "2024-11-01T00:00:00.000Z",
+    "endTime": "2024-11-30T23:59:59.000Z",
+    "status": "completed",
+    "isPublic": true,
+    "allowedVoters": [],
+    "resultsPublished": true,
+    "resultsPublishTime": "2024-12-01T00:00:00.000Z",
+    "isArchived": false,
+    "totalVotes": 0
+  }
+]
